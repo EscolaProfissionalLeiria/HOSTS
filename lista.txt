@@ -1,6 +1,3 @@
-0.0.0.0 facebook.com
-0.0.0.0 epl.pt
-0.0.0.0 www.epl.pt
 0.0.0.0 www.1001jogos.com.br
 0.0.0.0 1001jogos.com.br
 0.0.0.0 1001jogos.pt
