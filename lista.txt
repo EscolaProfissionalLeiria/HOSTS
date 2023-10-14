@@ -8,6 +8,4 @@
 0.0.0.0 1001jogos.pt
 
 
-
-# 0.0.0.0 example.com
-
+ 
