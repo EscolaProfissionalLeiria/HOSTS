@@ -5,12 +5,7 @@
 # blacklist
  
 
-0.0.0.0 facebook.com
-0.0.0.0 grapousos.pt
-0.0.0.0 epl.pt
-0.0.0.0 www.epl.pt
-0.0.0.0 94.46.22.18
-
+0.0.0.0 1001jogos.pt
 
 
 
