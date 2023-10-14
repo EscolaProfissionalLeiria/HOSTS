@@ -1,4 +1,16 @@
+# Title: EPL Hosts Blocked
+ 
+
+
+# blacklist
+ 
+
 0.0.0.0 facebook.com
 0.0.0.0 epl.pt
 0.0.0.0 www.epl.pt
+0.0.0.0 grapousos.pt
+
+
+
+# 0.0.0.0 example.com
 
