@@ -2,3 +2,4 @@
 0.0.0.0 hi5.com
 0.0.0.0 1001jogos.pt
 0.0.0.0 1001jogos.com.br 
+0.0.0.0 cld.pt
