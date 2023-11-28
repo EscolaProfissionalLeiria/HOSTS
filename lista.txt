@@ -25,3 +25,4 @@
 0.0.0.0 admeen.org
 0.0.0.0 admeen.org
 0.0.0.0 toconline.pt
+0.0.0.0 mahjong-jogo.com
